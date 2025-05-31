@@ -1,0 +1,7 @@
+# Required Supabase Environment Variables
+# Add these to your .env file
+
+# Supabase Client Configuration (Required)
+NEXT_PUBLIC_SUPABASE_URL=https://hqrwjeesmipjrxufemyh.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhxcndqZWVzbWlwanJ4dWZlbXloIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDUxNzIxOTcsImV4cCI6MjA2MDc0ODE5N30.gAfPd6xYbbpnT8Exfw9Ytp-QJl-0rdY7OuPAGeK4C4E
+            
